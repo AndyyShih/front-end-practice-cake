@@ -1,17 +1,14 @@
 body{
     font-family: Microsoft JhengHei;
-}
-
-html{
-    height: 100%;
-}
-
-body{
     background-image: url(../images/cake.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
     background-size: cover;
+}
+
+html{
+    height: 100%;
 }
 
 .word{
