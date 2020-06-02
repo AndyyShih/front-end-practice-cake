@@ -4,7 +4,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
-    background-size: cover;
+    background-size: 80%;
 }
 
 html{
@@ -15,10 +15,11 @@ html{
     width: 500px;
     height: 100px;
     position: absolute;
-    top: 55%;
+    top: 15%;
     left: 8%;
-    background-color: rgb(255, 73, 73, 0.62);
-    color: #FFF;
+    background-color: rgba(245, 130, 174, 0);
+    color: gray;
+    font-family: Arial, '華康瘦金體' ,sans-serif;
 }
 
 @media screen and (max-width:640px){
