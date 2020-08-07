@@ -1,33 +1,33 @@
-body{
-    font-family: Microsoft JhengHei;
-    background-image: url(../images/cake.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center center;
-    background-size: 80%;
+body {
+  font-family: Microsoft JhengHei;
+  background-image: url(../images/cake.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: 80%;
 }
 
-html{
-    height: 100%;
+html {
+  height: 100%;
 }
 
-.word{
-    width: 500px;
-    height: 100px;
-    position: absolute;
-    top: 15%;
-    left: 8%;
-    background-color: rgba(245, 130, 174, 0);
-    color: gray;
-    font-family: Arial, '華康瘦金體' ,sans-serif;
+.word {
+  width: 500px;
+  height: 100px;
+  position: absolute;
+  top: 15%;
+  left: 8%;
+  background-color: rgba(245, 130, 174, 0);
+  color: gray;
+  font-family: Arial, '華康瘦金體', sans-serif;
 }
 
-@media screen and (max-width:640px){
-    .word{
-        width: 100px;
-        height: auto;
-        top: 51px;
-        left: 0px;
-        z-index: -1;
-    }
+@media screen and (max-width:640px) {
+  .word {
+    width: 100px;
+    height: auto;
+    top: 51px;
+    left: 0px;
+    z-index: -1;
+  }
 }

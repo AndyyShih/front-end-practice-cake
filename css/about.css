@@ -1,48 +1,49 @@
-body{
-    font-family: Microsoft JhengHei;
+body {
+  font-family: Microsoft JhengHei;
 }
 
-#banner{
-    margin-top: 50px;
+#banner {
+  margin-top: 50px;
 }
 
-.text{
-    margin-top: 10%;
-    text-align: center;
+.text {
+  margin-top: 10%;
+  text-align: center;
 }
 
-.pic{
-    padding: 0px;
+.pic {
+  padding: 0px;
 }
 
-.title{
-    color: #fa8072;
-    font-weight: bold;
-    margin-bottom: 20px;
+.title {
+  color: #fa8072;
+  font-weight: bold;
+  margin-bottom: 20px;
 }
 
-.list{
-    padding: 10px 0px;
-    list-style-type: none;
-    font-weight: bold;
-    color: #5a5a5a;
+.list {
+  padding: 10px 0px;
+  list-style-type: none;
+  font-weight: bold;
+  color: #5a5a5a;
 }
 
-footer{
-    background-color: #000;
-    color: #FFF;
-    height: 50px;
-    text-align: center;
-    font-size: 10px;
-    padding-top: 20px;
-    margin-top: 20px;
+footer {
+  background-color: #000;
+  color: #FFF;
+  height: 50px;
+  text-align: center;
+  font-size: 10px;
+  padding-top: 20px;
+  margin-top: 20px;
 }
 
-@media (max-width:922px){
-    .text{
-        margin-top: 0px;
-    }
-    .pic{
-        padding: 15px;
-    }
-} 
+@media (max-width:922px) {
+  .text {
+    margin-top: 0px;
+  }
+
+  .pic {
+    padding: 15px;
+  }
+}
